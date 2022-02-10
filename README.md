@@ -1,4 +1,4 @@
-# -
+# 점심 메뉴 데이터 관리 및 결정 프로그램! 오늘 뭐먹지
 JAVA Swing mini project/  menu selection program/  resolution of indecision
 
 
